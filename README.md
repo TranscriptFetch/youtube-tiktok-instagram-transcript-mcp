@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TranscriptFetch/mcp-server/main/assets/logo.png" alt="TranscriptFetch" width="84" height="84" />
+  <img src="https://raw.githubusercontent.com/TranscriptFetch/youtube-tiktok-instagram-transcript-mcp/main/assets/logo.png" alt="TranscriptFetch" width="84" height="84" />
 </p>
 
 # TranscriptFetch MCP Server
